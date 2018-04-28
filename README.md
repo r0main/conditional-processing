@@ -1,4 +1,4 @@
-# Conditionnal processing
+# Conditional processing
 
 Qui n'a jamais écrit ce genre de code :
 
